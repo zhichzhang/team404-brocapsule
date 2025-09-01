@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/newLevel_1/L00_Menu.unity
+    guid: ef780a5c6a2740f4a85bc72b0a53c851
+  - enabled: 1
+    path: Assets/Scenes/newLevel_1/L0_tutorial_remake2.unity
+    guid: 61ea69a04138d334d9dae6170691b4c6
+  - enabled: 1
+    path: Assets/Scenes/newLevel_1/L0_fromAbyss.unity
+    guid: b4c62cfdb3ca4344b85606faf0848ff0
+  - enabled: 1
+    path: Assets/Scenes/newLevel_1/L0_SkyFall.unity
+    guid: 4f9fe86e3fb12ef49a4bfb3d07498c44
+  - enabled: 0
+    path: Assets/Scenes/newLevel_1/L0_NewMarch.unity
+    guid: cf328ec1f22f0ef489f2fd1e106ade40
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 99f9c9493070a9d4c979a8fec7c5a8d3, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

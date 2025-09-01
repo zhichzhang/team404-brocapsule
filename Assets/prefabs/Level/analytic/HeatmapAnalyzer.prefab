@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7562850498672590067
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4805339925700321341}
+  - component: {fileID: 3261845620264608368}
+  m_Layer: 0
+  m_Name: HeatmapAnalyzer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4805339925700321341
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7562850498672590067}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 606, y: 341, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3261845620264608368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7562850498672590067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f59959be68ffea47b41107ed837ea21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  checkPointsParent: {fileID: 0}
+  map: {fileID: 0}
+  levelIndex: 1
+  ceilSizeDefault: 4
+  _sessionID: 0
+  level: 0
+  checkPointIndex: 0
+  completed: 0
+  levelWidth: 0
+  levelHeight: 0
+  levelTopLeftPointX: 0
+  levelTopLeftPointY: 0
+  levelBottomRightX: 0
+  levelBottomRightY: 0
+  ceilSize: 0
+  ceilRowIndex: 0
+  ceilColumnIndex: 0
+  timeSpentOnTheCeil: 0
+  MAPH: 0
+  MAPW: 0
+  MAP_TOP_LEFT_POINT: {x: 0, y: 0}
+  MAP_BOTTOM_RIGHT_POINT: {x: 0, y: 0}
+  checkPointsN: 0

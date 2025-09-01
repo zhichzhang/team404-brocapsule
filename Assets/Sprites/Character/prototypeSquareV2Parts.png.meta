@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: efe6b3c0ffb52384b8f4d2ca702ac6ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8477907547682064621
+    second: prototypeSquareParts_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prototypeSquareV2Parts_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 120
+        width: 6
+        height: 21
+      alignment: 9
+      pivot: {x: 5.3333335, y: -2.0952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737846c6314d83b44b549190975e6b01
+      internalID: -368303067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prototypeSquareV2Parts_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 156
+        width: 26
+        height: 6
+      alignment: 9
+      pivot: {x: 1, y: -13.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76da0d8d1bfc124ca573961e007bce1
+      internalID: -424102020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prototypeSquareV2Parts_30
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 156
+        width: 26
+        height: 6
+      alignment: 9
+      pivot: {x: 0, y: -13.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354a3f139beccfa49bcc50365be82753
+      internalID: 320063734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prototypeSquareV2Parts_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 141
+        width: 6
+        height: 21
+      alignment: 9
+      pivot: {x: 5.3333335, y: -3.0952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465b4ad32f2f589469e7296e25d95acf
+      internalID: -485775478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prototypeSquareV2Parts_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 97
+        width: 6
+        height: 21
+      alignment: 9
+      pivot: {x: 5.3333335, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db6963a2b16ce044adb310384f26f7a
+      internalID: -6062898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prototypeSquareV2Parts_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 76
+        width: 6
+        height: 21
+      alignment: 9
+      pivot: {x: 5.3333335, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9641944d28a5e4891b76a18a536c31
+      internalID: -976726172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prototypeSquareV2Parts_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 76
+        width: 26
+        height: 6
+      alignment: 9
+      pivot: {x: 1, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68cc480a329c9d4d9491859662472cc
+      internalID: 1705981767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prototypeSquareV2Parts_02
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 76
+        width: 26
+        height: 6
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a60939067d5a54ca44a493ab21a2e7
+      internalID: 1039172229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prototypeSquareV2Parts_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 141
+        width: 6
+        height: 21
+      alignment: 9
+      pivot: {x: -4.3333335, y: -3.0952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ec043ef8a02db43b2566feea0a7bdc
+      internalID: 1094157531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prototypeSquareV2Parts_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 6
+        height: 21
+      alignment: 9
+      pivot: {x: -4.3333335, y: -2.0952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24b42c4e78fd9d4f8fa4d709b4cf362
+      internalID: 917082317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prototypeSquareV2Parts_00
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 97
+        width: 6
+        height: 21
+      alignment: 9
+      pivot: {x: -4.3333335, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d1f678595c24545a384e6048656f9b
+      internalID: -1436197365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prototypeSquareV2Parts_01
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 76
+        width: 6
+        height: 21
+      alignment: 9
+      pivot: {x: -4.3333335, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec7cbd00d1e4d1469bcf2df623f90ca
+      internalID: -376835766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 21ff7692ba39b6a4394952b9662d7abf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2: -485775478
+      prototypeSquareParts_0: -8477907547682064621
+      prototypeSquareParts_1: -611118920
+      prototypeSquareParts_2: -328603443
+      prototypeSquareParts_3: 1034388548
+      prototypeSquareParts_4: 1564738643
+      prototypeSquareV2Parts_00: -1436197365
+      prototypeSquareV2Parts_01: -376835766
+      prototypeSquareV2Parts_02: 1039172229
+      prototypeSquareV2Parts_10: 1705981767
+      prototypeSquareV2Parts_11: -976726172
+      prototypeSquareV2Parts_12: -6062898
+      prototypeSquareV2Parts_14: 324056808
+      prototypeSquareV2Parts_15: 1559404481
+      prototypeSquareV2Parts_16: -654568970
+      prototypeSquareV2Parts_18: 1450361667
+      prototypeSquareV2Parts_19: 767803392
+      prototypeSquareV2Parts_20: -368303067
+      prototypeSquareV2Parts_21: -485775478
+      prototypeSquareV2Parts_22: -424102020
+      prototypeSquareV2Parts_30: 320063734
+      prototypeSquareV2Parts_31: 1094157531
+      prototypeSquareV2Parts_32: 917082317
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
